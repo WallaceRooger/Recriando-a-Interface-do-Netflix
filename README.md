@@ -1,3 +1,1 @@
-"# Meus-Projetos"  
-"# Meus-Projetos"  
-"# Meus-Projetos"  
+Recriei a interface do Netflix, utilizando HTML5, CSS3 e JavaScript, em um bootcamp da DEVDIO, não qual me proporcionou bastante aprendizagem ex: como estruturar um layout, técnicas de CSS com containers e variáveis, como posicionar elementos com flexbox entre outras coisas.
